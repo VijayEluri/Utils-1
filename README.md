@@ -1,4 +1,4 @@
-task-admin
+Utils
 ==========
 
-grails on google app engine for task management
+A utils set for easy my daily work
